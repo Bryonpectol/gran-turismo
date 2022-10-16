@@ -173,7 +173,8 @@ opacity: .25;
     width: 30vh;
     border-radius: 20px;
     display: flex;
-    justify-self: center;
+    justify-content: center;
+    text-align: center;
   }
 
   .main-car-center {
@@ -181,6 +182,7 @@ opacity: .25;
     display: flex;
     justify-content: center;
     flex-direction: column;
+    text-align: center
   }
 
   .titleme {
