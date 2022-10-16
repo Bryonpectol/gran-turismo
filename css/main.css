@@ -170,8 +170,9 @@ opacity: .25;
   }
 
   .main-car {
-    width: 50vh;
+    width: 30vh;
     border-radius: 20px;
+    margin: 2vh;
   }
 
   .titleme {
