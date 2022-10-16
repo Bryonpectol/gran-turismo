@@ -172,6 +172,11 @@ opacity: .25;
   .main-car {
     width: 30vh;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .main-car-center {
     margin: 2vh;
     display: flex;
     justify-content: center;
