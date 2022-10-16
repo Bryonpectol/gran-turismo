@@ -169,6 +169,11 @@ opacity: .25;
     /* max-width: 100%; */
   }
 
+  .main-car {
+    width: 50vh;
+    border-radius: 20px;
+  }
+
   .titleme {
     color: white;
     text-align: center;
