@@ -173,6 +173,8 @@ opacity: .25;
     width: 30vh;
     border-radius: 20px;
     margin: 2vh;
+    display: flex;
+    justify-content: center;
   }
 
   .titleme {
