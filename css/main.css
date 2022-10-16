@@ -173,7 +173,7 @@ opacity: .25;
     width: 30vh;
     border-radius: 20px;
     display: flex;
-    justify-content: center;
+    justify-self: center;
   }
 
   .main-car-center {
