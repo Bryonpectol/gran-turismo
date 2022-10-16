@@ -180,6 +180,7 @@ opacity: .25;
     margin: 2vh;
     display: flex;
     justify-content: center;
+    flex-direction: row;
   }
 
   .titleme {
