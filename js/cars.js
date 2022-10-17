@@ -18,7 +18,7 @@ const allCars = cars.map(myCar => {
   };
 });
 
-allCars.forEach(my car => {
+allCars.forEach(myCar => {
 
 let makE = document.createElement("p");
 let modeL = document.createElement("p");
