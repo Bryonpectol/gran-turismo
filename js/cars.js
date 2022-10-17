@@ -30,7 +30,7 @@ imG.setAttribute("src", "/images/gt7/cars/" + myCar.image);
 
 mainContainer.appendChild(makE);
 makE.appendChild(modeL);
-makE appendChild(imG);
+makE.appendChild(imG);
 
 });
 
