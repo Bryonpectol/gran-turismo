@@ -29,7 +29,7 @@ modeL.textcontent = "Model: " + myCar.Model;
 imG.setAttribute("src", "/images/gt7/cars/" + myCar.image);
 
 mainContainer.appendChild(makE);
-mainContainer.appendChild(modeL);
+makE.appendChild(modeL);
 makE.appendChild(imG);
 
 });
