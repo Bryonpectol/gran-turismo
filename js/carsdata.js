@@ -1,4 +1,4 @@
-export const= [
+export const cars= [
 {"model":"500",
 "make":"Abarth",
 "id":0,
