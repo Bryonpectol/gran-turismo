@@ -26,7 +26,7 @@ let imG = document.createElement("img");
 
 makE.textContent = "Make: " + myCar.Make;
 modeL.textcontent = "Model: " + myCar.Model;
-imG.setAttribute("src", myCar.image);
+imG.setAttribute("src", "/images/gt7/cars/" + myCar.image);
 
 mainContainer.appendChild(makE);
 makE.appendChild(modeL);
