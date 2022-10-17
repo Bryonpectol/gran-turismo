@@ -4,7 +4,7 @@ const mainContainer = document.getElementById("container");
 
 const allCars = cars.map(myCar => {
   let carsYeah = cars.find(CAR => {
-    return CAR.name === myCar.name;
+    return CAR.model === myCar.model;
   });
 
   return {
