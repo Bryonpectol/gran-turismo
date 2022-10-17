@@ -2,6 +2,8 @@ import { cars } from '../js/carsdata.js';
 
 const mainContainer = document.getElementById("container");
 
+mainContainer.className = "container";
+
 const allCars = cars.map(myCar => {
   let carsYeah = cars.find(CAR => {
     return CAR.model === myCar.model;
@@ -25,6 +27,9 @@ let makE = document.createElement("p");
 let modeL = document.createElement("p");
 let imG = document.createElement("img");
 let yeaR = document.createElement("p");
+
+makE.className = "box";
+imG.className = "imagecard";
 
 makE.textContent = "Make: " + myCar.Make;
 modeL.textContent = "Model: " + myCar.Model;
