@@ -23,11 +23,11 @@ allCars.forEach(myCar => {
 let makE = document.createElement("p");
 let modeL = document.createElement("p");
 
-makE.textContent = myCar.Make;
-modeL.textcontent = myCar.Model;
+makE.textContent = "Make" + myCar.Make;
+modeL.textcontent = "Model" + myCar.Model;
 
 mainContainer.appendChild(makE);
-mainContainer.appendChild(modeL);
+makE.appendChild(modeL);
 
 });
 
