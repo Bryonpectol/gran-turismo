@@ -28,6 +28,7 @@ let modeL = document.createElement("p");
 let imG = document.createElement("img");
 let yeaR = document.createElement("p");
 let pP = document.createElement("p");
+let link = document.createElement("a");
 
 makE.className = "box";
 imG.className = "imagecard";
@@ -37,12 +38,14 @@ modeL.textContent = "Model: " + myCar.Model;
 yeaR.textContent = "Year: " + myCar.Year;
 pP.textContent = "Performance Points: " + myCar.PP
 imG.setAttribute("src", "/images/gt7/cars/" + myCar.image);
+link.setAttribute("href", "/images/gt7/cars/" + myCar.image);
 
 mainContainer.appendChild(makE);
 makE.appendChild(modeL);
 makE.appendChild(yeaR);
 makE.appendChild(pP);
-makE.appendChild(imG);
+makE.appendChild(link);
+link.appendChild(imG);
 
 });
 
