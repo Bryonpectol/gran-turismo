@@ -92,7 +92,7 @@ export const cars= [
 {"model":"GIULIA TZ2 carrozzata da ZAGATO",
 "make":"Alfa Romeo",
 "id":10,
-"img":"Alfa_Romeo_GIULIA_TZ2_carrozzata_da_ZAGATO_'65_(GT.jpg",
+"img":"Alfa_Romeo_GIULIA_TZ2.jpg",
 "game":"Gran Turismo 7",
 "year":"1965",
 "drivetrain":"FR",
