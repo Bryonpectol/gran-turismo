@@ -143,7 +143,7 @@ export const cars= [
 "drivetrain":"MR",
 "pp":587,},
 
-{"model":"Vision Gran Turismo",
+{"model":"Vision Gran Turismo 2017",
 "make":"Alpine",
 "id":16,
 "img":"Alpine_Vision_Gran_Turismo_2017.jpg",
