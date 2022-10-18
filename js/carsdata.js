@@ -4,7 +4,7 @@ export const cars= [
 "id":0,
 "img":"Abarth_500_'09.jpg",
 "game":"Gran Turismo 7",
-"year":"2009",
+"year":2009,
 "drivetrain":"FF",
 "pp":"391.21",},
 
@@ -13,7 +13,7 @@ export const cars= [
 "id":1,
 "img":"Abarth_595_SS_'70.jpg",
 "game":"Gran Turismo 7",
-"year":"1970",
+"year":1970,
 "drivetrain":"RR",
 "pp":"170.21",},
 
@@ -22,7 +22,7 @@ export const cars= [
 "id":2,
 "img":"Abarth_1500_Biposto_Bertone_B.A.T_1_'52.jpg",
 "game":"Gran Turismo 7",
-"year":"1952",
+"year":1952,
 "drivetrain":"FR",
 "pp":"263.78",},
 
@@ -31,7 +31,7 @@ export const cars= [
 "id":3,
 "img":"Alfa_Romeo_4C_Gr.3_(GT7,_Variation).jpg",
 "game":"Gran Turismo 7",
-"year":"2014",
+"year":2014,
 "drivetrain":"MR",
 "pp":"720.12",},
 
@@ -40,7 +40,7 @@ export const cars= [
 "id":4,
 "img":"Alfa_Romeo_4C_Gr.3_Road_Car.jpg",
 "game":"Gran Turismo 7",
-"year":"2014",
+"year":2014,
 "drivetrain":"MR",
 "pp":"571.94",},
 
@@ -49,7 +49,7 @@ export const cars= [
 "id":5,
 "img":"Alfa_Romeo_4C_Gr.4.jpg",
 "game":"Gran Turismo 7",
-"year":"2014",
+"year":2014,
 "drivetrain":"MR",
 "pp":"620.66",},
 
@@ -58,7 +58,7 @@ export const cars= [
 "id":6,
 "img":"Alfa_Romeo_4C_Launch_Edition_'14.jpg",
 "game":"Gran Turismo 7",
-"year":"2014",
+"year":2014,
 "drivetrain":"MR",
 "pp":"527.01",},
 
@@ -67,7 +67,7 @@ export const cars= [
 "id":7,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
-"year":"1938",
+"year":1938,
 "drivetrain":"FR",
 "pp":"377.04",},
 
@@ -76,7 +76,7 @@ export const cars= [
 "id":8,
 "img":"Alfa_Romeo_8C_Competizione_'08.jpg",
 "game":"Gran Turismo 7",
-"year":"2008",
+"year":2008,
 "drivetrain":"FR",
 "pp":"558.52",},
 
@@ -85,7 +85,7 @@ export const cars= [
 "id":9,
 "img":"Alfa_Romeo_155_2.5_V6_TI_'93_GT7.png",
 "game":"Gran Turismo 7",
-"year":"1993",
+"year":1993,
 "drivetrain":"AWD",
 "pp":"670.52",},
 
@@ -94,7 +94,7 @@ export const cars= [
 "id":10,
 "img":"Alfa_Romeo_GIULIA_TZ2.jpg",
 "game":"Gran Turismo 7",
-"year":"1965",
+"year":1965,
 "drivetrain":"FR",
 "pp":"486",},
 
@@ -103,7 +103,7 @@ export const cars= [
 "id":11,
 "img":"Alfa_Romeo_MiTo_1.4_T_Sport_'09.jpg",
 "game":"Gran Turismo 7",
-"year":"2009",
+"year":2009,
 "drivetrain":"FF",
 "pp":"415.18",},
 
