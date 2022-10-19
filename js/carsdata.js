@@ -170,27 +170,27 @@ export const cars= [
 "drivetrain":"RWD",
 "pp":830.83,},
 
-{"model":"4C Gr.3 Road Car",
-"make":"Alfa Romeo",
-"id":4,
-"img":"Alfa_Romeo_4C_Gr.3_Road_Car.jpg",
+{"model":"C 63 S",
+"make":"Mercedes-AMG",
+"id":19,
+"img":"Mercedes-AMG_C_63_S_'15.jpg",
 "game":"Gran Turismo 7",
-"year":"2014",
-"drivetrain":"MR",
-"pp":"571.94",},
+"year":2015,
+"drivetrain":"FR",
+"pp":571.90,},
 
-{"model":"4C Gr.4",
-"make":"Alfa Romeo",
-"id":5,
-"img":"Alfa_Romeo_4C_Gr.4.jpg",
+{"model":"GT Black Series",
+"make":"Mercedes-AMG",
+"id":20,
+"img":"Mercedes-AMG_GT_Black_Series_20.jpg",
 "game":"Gran Turismo 7",
-"year":"2014",
-"drivetrain":"MR",
-"pp":"620.66",},
+"year":2020,
+"drivetrain":"FR",
+"pp":667.89,},
 
 {"model":"4C Launch Edition",
 "make":"Alfa Romeo",
-"id":6,
+"id":21,
 "img":"Alfa_Romeo_4C_Launch_Edition_'14.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -199,7 +199,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":22,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -208,7 +208,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":23,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -217,7 +217,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":24,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -226,7 +226,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":25,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -235,7 +235,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":26,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -244,7 +244,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":27,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -253,7 +253,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":28,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -262,7 +262,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":29,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -271,7 +271,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":30,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -280,7 +280,7 @@ export const cars= [
 
 {"model":"595 Esseesse",
 "make":"Fiat Abarth",
-"id":1,
+"id":31,
 "img":"Abarth_595_SS_'70.jpg",
 "game":"Gran Turismo 7",
 "year":"1970",
@@ -289,7 +289,7 @@ export const cars= [
 
 {"model":"1500 Biposto Bertone B.A.T 1",
 "make":"Abarth",
-"id":2,
+"id":32,
 "img":"Abarth_1500_Biposto_Bertone_B.A.T_1_'52.jpg",
 "game":"Gran Turismo 7",
 "year":"1952",
@@ -298,7 +298,7 @@ export const cars= [
 
 {"model":"4C Gr.3",
 "make":"Alfa Romeo",
-"id":3,
+"id":33,
 "img":"Alfa_Romeo_4C_Gr.3_(GT7,_Variation).jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -307,7 +307,7 @@ export const cars= [
 
 {"model":"4C Gr.3 Road Car",
 "make":"Alfa Romeo",
-"id":4,
+"id":34,
 "img":"Alfa_Romeo_4C_Gr.3_Road_Car.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -316,7 +316,7 @@ export const cars= [
 
 {"model":"4C Gr.4",
 "make":"Alfa Romeo",
-"id":5,
+"id":35,
 "img":"Alfa_Romeo_4C_Gr.4.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -325,7 +325,7 @@ export const cars= [
 
 {"model":"4C Launch Edition",
 "make":"Alfa Romeo",
-"id":6,
+"id":36,
 "img":"Alfa_Romeo_4C_Launch_Edition_'14.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -334,7 +334,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":37,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -343,7 +343,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":38,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -352,7 +352,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":39,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -361,7 +361,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":40,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -370,7 +370,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":41,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -379,7 +379,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":42,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -388,7 +388,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":43,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -397,7 +397,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":44,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -406,7 +406,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":45,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -415,7 +415,7 @@ export const cars= [
 
 {"model":"595 Esseesse",
 "make":"Fiat Abarth",
-"id":1,
+"id":46,
 "img":"Abarth_595_SS_'70.jpg",
 "game":"Gran Turismo 7",
 "year":"1970",
@@ -424,7 +424,7 @@ export const cars= [
 
 {"model":"1500 Biposto Bertone B.A.T 1",
 "make":"Abarth",
-"id":2,
+"id":47,
 "img":"Abarth_1500_Biposto_Bertone_B.A.T_1_'52.jpg",
 "game":"Gran Turismo 7",
 "year":"1952",
@@ -433,7 +433,7 @@ export const cars= [
 
 {"model":"4C Gr.3",
 "make":"Alfa Romeo",
-"id":3,
+"id":48,
 "img":"Alfa_Romeo_4C_Gr.3_(GT7,_Variation).jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -442,7 +442,7 @@ export const cars= [
 
 {"model":"4C Gr.3 Road Car",
 "make":"Alfa Romeo",
-"id":4,
+"id":49,
 "img":"Alfa_Romeo_4C_Gr.3_Road_Car.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -451,7 +451,7 @@ export const cars= [
 
 {"model":"4C Gr.4",
 "make":"Alfa Romeo",
-"id":5,
+"id":50,
 "img":"Alfa_Romeo_4C_Gr.4.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -460,7 +460,7 @@ export const cars= [
 
 {"model":"4C Launch Edition",
 "make":"Alfa Romeo",
-"id":6,
+"id":51,
 "img":"Alfa_Romeo_4C_Launch_Edition_'14.jpg",
 "game":"Gran Turismo 7",
 "year":"2014",
@@ -469,7 +469,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":52,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -478,7 +478,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":53,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -487,7 +487,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":54,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
@@ -496,7 +496,7 @@ export const cars= [
 
 {"model":"8C 2900B Touring Berlinetta",
 "make":"Alfa Romeo",
-"id":7,
+"id":55,
 "img":"Alfa_Romeo_8C_2900B_Touring_Berlinetta_'38.jpg",
 "game":"Gran Turismo 7",
 "year":"1938",
