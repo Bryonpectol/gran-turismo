@@ -188,7 +188,7 @@ export const cars= [
 "drivetrain":"FR",
 "pp":667.89,},
 
-{"model":"4C Launch Edition",
+{"model":"",
 "make":"Alfa Romeo",
 "id":21,
 "img":"Alfa_Romeo_4C_Launch_Edition_'14.jpg",
